@@ -33,7 +33,9 @@ $HOME/nubit-node/bin/nkey list --p2p.network nubit-alphatestnet-1 --node.type li
 
 ### Registering a node:
 We are going to the [site](https://alpha.nubit.org/) 
+
 We insert the pubkey that we took above in step 3.
+
 Click "Verify"
 
 ### Useful commands:
